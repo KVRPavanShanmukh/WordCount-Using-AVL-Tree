@@ -6,7 +6,7 @@ import "./App.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter basename="/AVL-TREE-WORD-COUNT">
+    <BrowserRouter basename="/WordCount-Using-AVL-Tree">
       <App />
     </BrowserRouter>
   </React.StrictMode>
