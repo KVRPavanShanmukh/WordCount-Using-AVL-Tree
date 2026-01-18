@@ -155,12 +155,6 @@ function App() {
           If you have suggestions, feedback, or would like to collaborate on
           advanced data structure visualizations, feel free to reach out.
         </p>
-
-        <div className="contact-links">
-          <p>Email: <strong>kakarlapavanshanmukh@gmail.com</strong></p>
-          <p>GitHub: <strong>github.com/KVRPavanShanmukh</strong></p>
-          <p>LinkedIn: <strong>linkedin.com/in/pavan-shanmukh-kakarla-aa3923335/</strong></p>
-        </div>
       </section>
 
       <section className="section contact-section">
